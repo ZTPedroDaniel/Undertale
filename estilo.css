@@ -10,7 +10,9 @@ body{
 }
 
 .cabecalho{
-    display: flex,
+    display: flex;
     background-color: black;
-   align-items: center;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 40px;
 }
