@@ -29,5 +29,6 @@ body{
 }
 
 .secao1{
-  background-color: darkgrey;
+   display: flex:;
+   background-color: blue;
 }
