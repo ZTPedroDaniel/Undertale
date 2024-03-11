@@ -6,7 +6,7 @@
 body{
   
   background-color: grey;
-  color: grey;
+  color: white;
 }
 
 .cabecalho{
@@ -30,5 +30,5 @@ body{
 
 .secao1{
    display: flex:;
-   background-color: blue;
+   background-color: grey;
 }
