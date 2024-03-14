@@ -36,3 +36,18 @@ body{
    align-items: center;
    justify-content: center;
 }
+
+
+
+.secao1-titulo{
+   padding: 24px 0;
+}
+
+.secao1-imagem{
+   width: 20%;
+}
+
+
+.secao.div{
+   width: 35%;
+}
