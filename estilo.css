@@ -29,7 +29,7 @@ body{
 }
 
 .secao1{
-   display: flex:;
+   display: flex;
    background: rgb(255,255,255);
    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
    color: white;
@@ -37,17 +37,15 @@ body{
    justify-content: center;
 }
 
-
-
-.secao1-titulo{
-   padding: 24px 0;
+.secao2{
+    text-align: center;
+   color: black
 }
 
-.secao1-imagem{
-   width: 20%;
+.secao2-titulo{
+   font-size: 20px;
 }
 
-
-.secao2.div{
-   background-color:gray;
+.secao2-todos-monstros{
+   display: flex;
 }
