@@ -37,6 +37,11 @@ body{
    justify-content: center;
 }
 
+.secao1 img{
+   width: 100px;
+   height: 100px;
+}
+
 .secao2{
     text-align: center;
    color: black
