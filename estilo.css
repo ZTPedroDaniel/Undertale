@@ -52,7 +52,8 @@ body{
 }
 
 .secao2-todos-monstros{
-   display: flex;
+   display: grid;
+   grid-template-columns: 25% 25% 25% 25%;
 }
 
 .secao2-todos-monstros img{
