@@ -69,3 +69,8 @@ body{
 .monstros{
    padding-bottom: 40px;
 }
+
+.rodape{
+   background-color: black;
+   align-items: center;
+}
