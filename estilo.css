@@ -42,10 +42,10 @@ body{
    height: 250px;
 }
 
-.secao2{
+.secao2{]
+    background-color: white;
     text-align: center;
-   background-color: white;
-   color: black
+    color: black;
 }
 
 .secao2-titulo{
